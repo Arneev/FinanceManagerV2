@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/02 14:04:53.000.375,=C:\Users\Arneev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/02 14:13:36.000.262,=C:\Users\Arneev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 18:59:05.000.938,=C:\Users\Arneev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 19:29:13.000.081,C:\Users\Arneev\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Main_U.pas</Transaction>
+    <Transaction>2020/09/03 19:29:13.000.081,C:\Users\Arneev\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Main_U.dfm</Transaction>
+    <Transaction>2020/09/03 19:29:19.000.152,C:\Users\Arneev\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Main_P.dproj</Transaction>
+    <Transaction>2020/09/03 20:38:03.000.469,=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 20:44:46.000.827,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\dmMain_U.pas</Transaction>
+    <Transaction>2020/09/03 20:44:46.000.827,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.dfm=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\dmMain_U.dfm</Transaction>
+    <Transaction>2020/09/03 23:40:09.000.694,=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 23:41:07.000.573,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.dfm=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Database_U.dfm</Transaction>
+    <Transaction>2020/09/03 23:41:07.000.573,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Database_U.pas</Transaction>
+    <Transaction>2020/09/03 23:42:42.000.838,=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 23:43:22.000.136,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Graphs_U.pas</Transaction>
+    <Transaction>2020/09/03 23:43:22.000.136,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.dfm=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Graphs_U.dfm</Transaction>
+    <Transaction>2020/09/04 14:39:13.000.732,=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas</Transaction>
+    <Transaction>2020/09/04 14:41:18.000.182,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Helper_U.pas=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas</Transaction>
+    <Transaction>2020/09/04 16:30:05.000.485,=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas</Transaction>
+    <Transaction>2020/09/04 17:59:30.000.291,C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\DataHolder_U.pas=C:\Users\Arneev\Desktop\GitHub\Finance Manager v2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
