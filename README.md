@@ -3,6 +3,6 @@
 
 
 Finance Manager helps you categorise your income and expenses.
-You can visua data through bar graphs or pie charts.
+You can visualize data through bar graphs or pie charts.
 
 Created within RAD Studio using Delphi.
